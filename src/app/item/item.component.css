@@ -1,0 +1,18 @@
+.item-list {
+  margin: 20px;
+}
+
+  .item-list h2 {
+    font-size: 24px;
+  }
+
+  .item-list ul {
+    list-style-type: none; /* Supprime les puces */
+    padding: 0; /* Supprime le remplissage par défaut */
+  }
+
+  .item-list li {
+    padding: 8px;
+    border: 1px solid #ccc; /* Ajoute une bordure */
+    margin-bottom: 5px; /* Ajoute un espace entre les éléments */
+  }
